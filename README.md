@@ -1,2 +1,4 @@
 # covid19-timeseries
-Visualisation of COVID-19 cases by country 
+Visualisation of confirmed COVID-19 cases by country over time.
+
+![Cumulative Confirmed Cases by Country](confirmed_cumulative.png)
